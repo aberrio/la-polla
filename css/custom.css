@@ -1,0 +1,100 @@
+#header {
+    display: block;
+    background-color: #ccc;
+    height: 50px;
+}
+
+.photo {
+    height: 70px;
+    width: 70px;
+    background-color: #ccc;
+    border-radius: 35px;
+}
+
+#users {
+    display: block;
+
+
+}
+
+#users li {
+    display: inline;
+    float: left;
+     margin-right: 30px;
+}
+
+.points {
+    color: blue;
+    font-family: 
+}
+
+.point-input {
+display: inline;
+width: 14%;
+margin: 0 3px;
+height: 30px;
+padding: 6px;
+font-size: 14px;
+line-height: 1.42857143;
+color: #555;
+background-color: #fff;
+background-image: none;
+border: 1px solid #ccc;
+border-radius: 4px;
+-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+-webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.big-text {
+    font-family: 'Rubik One', sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+.glyphicon {
+width: 100px:
+
+}
+
+.main-nav ul {
+    
+    height: 59px;
+    
+    
+    width: 70%;
+   
+    margin-left: 5  0px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.main-nav li {
+    margin-right: 100px;
+    text-align: center;
+
+}
+
+.score-section {
+   
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.btn-danger, .btn-info {
+    
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
