@@ -248,12 +248,7 @@ color: #faac16;
 
 }
     
- .nav-input {
-    
-    background-color: blue;
-    float: left; 
 
- }   
 
 
 label {
@@ -280,16 +275,34 @@ label {
     font-weight: 700;
 }
 
-.panel-body input {
-    margin-left: auto;
-    margin-left: auto;
+
+
+.panel-row {
+    width: 98%;
+    
+    display: block;
+    font-family: 'Abel', sans-serif;
+    
+    margin-bottom: 5px;
+
 }
 
-.panel-input {
-    margin-left: auto;
-    margin-right: auto;
-    float: left;
+.panel-row input {
+    
+    
+    
+
 }
+
+
+
+
+.panel-row img {
+    margin: 0 3px;
+    width: 30px;
+
+}
+
 
 
 
